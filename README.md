@@ -2,14 +2,14 @@
 
 <br><br>
 <h1 align="center">Hi There👋, I'm Anup Yadav</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a Software Engineer at Microsoft with a passion for technology and crafting innovative solutions.
+<h3 align="center">Welcome to my GitHub profile! I'm a Software Engineer at Microsoft with a strong passion for solving complex problems and building innovative solutions. With a solid foundation in C++, Data Structures & Algorithms, and full-stack development, I love turning ideas into reality through code.
 </h3>
 
 
 
 
 
-<h3 align="center" text-alin="justify">I'm a Software Engineer at Microsoft with a strong passion for solving complex problems and building innovative solutions. With a solid foundation in C++, Data Structures & Algorithms, and full-stack development, I love turning ideas into reality through code.</h3>
+<h3 align="center" text-alin="justify">I'm a Software Engineer at Microsoft .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupyadavmicrosoft&label=Profile%20views&color=0e75b6&style=flat" alt="anupyadavmicrosoft" /> </p>
 
