@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **Custom OS: Building a Robust Foundation** and **SmartData: An Intelligent Database System for Real-Time Analytics**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mypersonalportfolio-steel.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anupyavavinfo.vercel.app/)
 
 - 💬 Ask me about **C, C++, Python, Django,JavaScript, MySQL.**
 
